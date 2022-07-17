@@ -1,2 +1,1 @@
-# nikolay-in.github.io
-resume-website
+# Personal resume website
